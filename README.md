@@ -76,7 +76,7 @@ Das Spiel enthält:
 
 ---
 
-## 🗓️ Wochenplanung  
+## Wochenplanung  
 
 ### **07.11.2025**
 **Epic:** Grundlagen & Spielfigur  
@@ -87,7 +87,7 @@ Das Spiel enthält:
 - Bewegungsskript in C# schreiben  
 
 **Heute habe ich:**  
-...  
+Mich zum ersten mal mit Unity angefreundet. Ich muss sagen es ist ein komplett anderes Gefühl als mit den Sprachen zu Programmieren die ich schon kennengelernt habe. Ich habe noch nie eine so interaktive GUI gehabt und es ist wirklich interessant zu sehen wie ich im Spiel selber drinnen bin. Ich fühle mich wie ein wasch echter Spiele-entwickler. Ich muss sagen es ist ein bisschen kompliziert mit dem Movement in der UI, doch mit der ZEit wird das schon, und für genau das ist ja das Lernatelier.
 
 ---
 
