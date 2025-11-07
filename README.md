@@ -35,7 +35,7 @@ Ein spielbares Level mit klarer Spielmechanik, Menüführung und grundlegender P
 
 ---
 
-## 🎮 Spielidee  
+##  Spielidee  
 
 Der Spieler steuert eine einfache 3D-Figur (z. B. einen Würfel oder eine kleine Spielfigur),  
 die durch ein Level läuft und über Plattformen springt, um eine **Flagge am Ende** zu erreichen.  
@@ -51,7 +51,7 @@ Das Spiel enthält:
 
 ---
 
-## 🧩 Epics  
+## Epics  
 
 1. **Spielerbewegung**  
    Als Spieler möchte ich meine Spielfigur mit der Tastatur steuern können, damit ich mich im Level bewegen und Hindernissen ausweichen kann.  
@@ -166,10 +166,7 @@ Das Spiel enthält:
 
 ---
 
-## 🧾 Abschluss  
 
-Am Ende dieser Lernperiode soll ein funktionierendes kleines Jump’n’Run-Spiel entstehen,  
-das alle Grundfunktionen eines Unity-Projekts enthält und in einer klaren, verständlichen Dokumentation beschrieben ist.  
 
 ---
 
