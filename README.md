@@ -23,7 +23,7 @@ Der Fokus des Projekts liegt darauf, den **Entwicklungsprozess in Unity** besser
 von der Szenenerstellung, Beleuchtung und Physik über die **Bewegungssteuerung mit C#-Skripten**  
 bis hin zu **UI-Elementen** wie Menü, Zeitmessung oder „Level geschafft“-Anzeige.  
 
-Das Projekt soll einen **funktionsfähigen Prototyp** hervorbringen, der technisch nachvollziehbar dokumentiert ist.  
+Das Projekt soll einen **funktionsfähigen Prototyp** hervorbringen. 
 
 **Schwerpunkte:**  
 - Verständnis der Unity-Struktur (Scenes, GameObjects, Komponenten)  
@@ -92,14 +92,14 @@ Mich zum ersten mal mit Unity angefreundet. Ich muss sagen es ist ein komplett a
 ---
 
 ### **13.11.2025**
-**Epic:** Physik & Sprungmechanik  
-**Arbeitspakete:**  
-- Rigidbody-Physik hinzufügen  
-- Sprungfunktion implementieren  
-- Testen der Steuerung  
-- Anpassung der Kamera  
-
-**Heute habe ich:**  
+**Epic:** (Physik & Sprungmechanik)  
+**Arbeitspakete:**   
+- Sprungfunktion implementieren
+- Level design, genauer ablauf von a bis z
+- Zukunfspläne-aufgeschriebe 
+- Verständnis für das 3d Koordinatensytem Youtube videos(https://www.youtube.com/watch?v=UKfKOPjOGio&list=PLjaA00udJtOpn73fqft-kcdST4ac2HW4U&index=2 Und https://www.youtube.com/watch?v=IfkYCHcnDqw)
+**Heute habe ich:**
+Zuerst mir Herr Colic über meine Ausbildung gesprochen, daher habe ich mir aktiv Gedanken zu dem Thema gemacht, deswegen habe ich mir ein Word-Dokument gemacht mit einer fairen Evulation. Wichtiger jedoch habe ich mich, nennens wir 3d cooden, informiert. Für ein vollständiges Verständnins habe ich mir ein Video zu den Vektoren und den generellen aufbau zum 3d Koordinatensystem angeschaut. Damit kann ich mit besser mit den Zahlen und Speicherung arbeiten in Zukunft. 
 ...  
 
 ---
