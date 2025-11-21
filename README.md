@@ -109,8 +109,8 @@ Zuerst mir Herr Colic über meine Ausbildung gesprochen, daher habe ich mir akti
 **Arbeitspakete:**  
 - Hindernisse und Fallen hinzufügen  
 - Flagge als Zielobjekt einbauen  
-- Kollisionserkennung und Level-Ende programmieren  
-- Neustart-Funktion nach Verlust  
+- CS50 half of session one
+- [X] Cs50 second half of session one 
 
 **Heute habe ich:**  
 ...  
