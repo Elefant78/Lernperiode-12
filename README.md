@@ -113,6 +113,7 @@ Zuerst mir Herr Colic über meine Ausbildung gesprochen, daher habe ich mir akti
 - [X] Cs50 second half of session one 
 
 **Heute habe ich:**  
+besser gesagt diese Woche habe ich mich zunächst mit dem CS50 Kurs befasst, weil ich denke das es ein guter Refresh ist für Themen die wir schon durch gemacht haben. Manche teile sind neu, was sowieso ein plus ist. Den zweiten Teil des Lernatelier habe ich mich wieder mit dem Unity-Projekt befasst. Ich habe mich mit dem Level-design befasst, was sehr Interressant ist, da ich selber viele Videospiele gespielt habe und ich weiss was für mich ein gutes spiel ausmacht. 
 ...  
 
 ---
