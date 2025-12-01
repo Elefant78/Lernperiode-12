@@ -122,11 +122,12 @@ besser gesagt diese Woche habe ich mich zunächst mit dem CS50 Kurs befasst, wei
 **Epic:** Menü & Benutzeroberfläche  
 **Arbeitspakete:**  
 - Startmenü erstellen  
-- Restart- und Quit-Buttons implementieren  
-- UI-Text für Zeit oder Status  
+- Fall physic 
+- UI-Text für Zeit   
 - Design anpassen  
 
 **Heute habe ich:**  
+Ich habe ein übersichtliches Startmenü erstellt, die Fall-Physik implementiert und getestet, einen gut lesbaren UI-Zeittext integriert sowie das gesamte Design angepasst und vereinheitlicht. Alle Arbeitspakete verbessern die Benutzerführung, die Funktionalität und das visuelle Erscheinungsbild der Anwendung.
 ...  
 
 ---
